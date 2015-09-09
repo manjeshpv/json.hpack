@@ -22,11 +22,11 @@ var json = [{
 
 packed_json = JSON.hpack(json);
 
-//console.log("packed JSON",packed_json);
+console.log("packed JSON",packed_json);
 
 unpacked_json = JSON.hunpack(packed_json);
 
-//console.log("JSON:",unpacked_json)
+console.log("JSON:",unpacked_json)
 
 console.log("Algorithm Input and Result Matching");
 if(JSON.stringify(unpacked_json) == JSON.stringify(unpacked_json)){
