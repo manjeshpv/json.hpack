@@ -1,0 +1,29 @@
+{
+  "name": "json-hpack",
+  "version": "0.0.1",
+  "description": "JSON.hpack - NPM Impl of WebReflection/json.hpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manjeshpv/json.hpack.git"
+  },
+  "keywords": [
+    "JSON",
+    "hpack",
+    "Homogeneous",
+    "JSON",
+    "Compression",
+    "SQL",
+    "JSON",
+    "Compression"
+  ],
+  "author": "Manjesh V <manjeshpv@gmail.com> (http://manjeshpv.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manjeshpv/json.hpack/issues"
+  },
+  "homepage": "https://github.com/manjeshpv/json.hpack#readme"
+}
